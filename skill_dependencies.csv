@@ -1,0 +1,32 @@
+skill,prerequisite,dependency_reason
+Machine Learning,Python,Python is the programming foundation for Machine Learning
+NumPy,Python,NumPy provides numerical computing foundations
+Pandas,Python,Pandas is used for data manipulation and analysis
+Scikit-learn,Python,Scikit-learn provides classical Machine Learning algorithms
+Machine Learning,NumPy,Machine Learning requires numerical data processing
+Machine Learning,Pandas,Machine Learning commonly requires structured data preparation
+Deep Learning,Python,Python is required for Deep Learning development
+Deep Learning,Machine Learning,Machine Learning concepts help understand Deep Learning
+NLP,Python,Python is widely used for NLP development
+Transformers,NLP,NLP concepts help understand Transformer models
+LLM,Transformers,Transformers are the foundation of modern LLMs
+Embeddings,NLP,NLP concepts help understand semantic embeddings
+Vector Database,Embeddings,Vector databases store and retrieve embeddings
+RAG,LLM,RAG uses LLMs to generate grounded responses
+RAG,Embeddings,RAG requires embeddings for semantic retrieval
+RAG,Vector Database,RAG uses vector databases to retrieve relevant information
+LangChain,Python,Python is commonly used to build LangChain applications
+LangChain,LLM,LangChain connects LLMs with application components
+LangChain,RAG,LangChain can orchestrate RAG pipelines
+FastAPI,Python,Python is required for FastAPI development
+REST API,Python,Python is required to build REST APIs
+Docker,FastAPI,Docker can package FastAPI applications for deployment
+Computer Vision,Deep Learning,Deep Learning is widely used for Computer Vision
+Computer Vision,OpenCV,OpenCV provides computer vision processing capabilities
+YOLO,Computer Vision,YOLO is an advanced Computer Vision object detection approach
+CNN,Deep Learning,CNN is a Deep Learning architecture used for image processing
+LSTM,Deep Learning,LSTM is a Deep Learning architecture for sequence data
+RNN,Deep Learning,RNN is a Deep Learning architecture for sequential data
+Matplotlib,Python,Python is required for Matplotlib visualization
+Statistics,Python,Python is commonly used for statistical analysis
+Power BI,SQL,SQL knowledge helps prepare and analyze structured data

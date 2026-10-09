@@ -1,0 +1,11 @@
+job_id,job_title,company,required_skills
+1,AI Engineer,TechNova,"Python,Machine Learning,Deep Learning,TensorFlow,NLP,RAG,FastAPI,Docker,Git"
+2,Machine Learning Engineer,DataTech,"Python,Machine Learning,Scikit-learn,Pandas,NumPy,SQL,TensorFlow,Git"
+3,Data Scientist,AnalyticsHub,"Python,SQL,Pandas,NumPy,Machine Learning,Statistics,Scikit-learn,Matplotlib"
+4,Deep Learning Engineer,VisionAI,"Python,Deep Learning,TensorFlow,PyTorch,CNN,RNN,LSTM,Computer Vision,Git"
+5,NLP Engineer,LanguageAI,"Python,NLP,Natural Language Processing,Transformers,LLM,PyTorch,TensorFlow"
+6,Generative AI Engineer,GenAI Labs,"Python,LLM,Generative AI,RAG,LangChain,Vector Database,Embeddings,FastAPI,Docker"
+7,Data Analyst,InsightWorks,"Python,SQL,Pandas,Excel,Statistics,Matplotlib,Power BI"
+8,Computer Vision Engineer,VisionTech,"Python,OpenCV,YOLO,Deep Learning,TensorFlow,PyTorch,CNN,Computer Vision"
+9,Backend AI Engineer,CloudAI,"Python,FastAPI,Flask,REST API,Docker,Git,SQL,Machine Learning"
+10,AI/ML Intern,FutureTech,"Python,SQL,Machine Learning,Pandas,Scikit-learn,Git"

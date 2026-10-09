@@ -1,0 +1,16 @@
+project_id,project_name,project_description,required_skills,difficulty,portfolio_value
+1,AI Document Intelligence & RAG Assistant,"Build an AI application that allows users to upload documents and ask questions using Retrieval Augmented Generation.","Python,RAG,Embeddings,Vector Database,LangChain,LLM,FastAPI",Intermediate,High
+2,Generative AI Chatbot,"Build a conversational AI application using an LLM with conversation history and prompt engineering.","Python,LLM,Generative AI,FastAPI,Git",Intermediate,High
+3,Semantic Job Search Engine,"Build a semantic job search system that matches resumes and job descriptions using embeddings.","Python,Embeddings,Vector Database,NLP,Semantic Search,FastAPI",Intermediate,High
+4,AI Resume Analyzer,"Build an AI system that extracts skills from resumes and provides career recommendations.","Python,NLP,LLM,Machine Learning,FastAPI,Streamlit",Intermediate,High
+5,Customer Churn Prediction,"Build a machine learning system that predicts whether customers may leave a service.","Python,Pandas,Scikit-learn,Machine Learning,Statistics,Git",Beginner,Medium
+6,House Price Prediction,"Build a regression model that predicts house prices from property features.","Python,Pandas,Scikit-learn,Machine Learning,Statistics",Beginner,Medium
+7,Image Classification System,"Build an image classification application using a convolutional neural network.","Python,Deep Learning,TensorFlow,CNN,Computer Vision",Intermediate,High
+8,Real-Time Object Detection,"Build a real-time object detection system using YOLO and OpenCV.","Python,Deep Learning,YOLO,OpenCV,Computer Vision",Advanced,High
+9,Sentiment Analysis System,"Build an NLP application that classifies text sentiment.","Python,NLP,Machine Learning,Scikit-learn,Transformers",Intermediate,High
+10,AI Model Deployment API,"Build and deploy a machine learning model through a production-style REST API.","Python,Machine Learning,FastAPI,REST API,Docker,Git",Intermediate,High
+11,Document Semantic Search,"Build a semantic search engine that finds relevant documents using embeddings and vector search.","Python,Embeddings,Vector Database,Semantic Search,NLP",Intermediate,High
+12,Multi-Document Research Assistant,"Build an AI research assistant that searches multiple documents and generates grounded answers.","Python,LLM,RAG,Embeddings,Vector Database,LangChain,FastAPI",Advanced,High
+13,AI Career Recommendation System,"Build an AI system that recommends career roles based on skills, gaps and job requirements.","Python,Machine Learning,NLP,Pandas,Scikit-learn,FastAPI",Advanced,High
+14,AI Traffic Management System,"Build a computer vision system that detects vehicles and supports intelligent traffic management.","Python,OpenCV,YOLO,Deep Learning,Computer Vision",Advanced,High
+15,AI Knowledge Base Assistant,"Build a question-answering assistant over a structured knowledge base using semantic retrieval.","Python,LLM,RAG,Embeddings,Vector Database",Intermediate,High

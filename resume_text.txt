@@ -1,0 +1,123 @@
+GOBINATH
+
+AI Engineer Intern Candidate
+B.Tech Artificial Intelligence and Data Science
+
+Location: Udumalpet, Tamil Nadu, India
+
+PROFESSIONAL SUMMARY
+
+Second-year B.Tech Artificial Intelligence and Data Science student with hands-on Machine Learning and Deep Learning projects in Python, Scikit-learn, and TensorFlow/Keras, including CNN-based image classification with 99.06% test accuracy on MNIST.
+
+Currently building skills in NLP, LLMs, embeddings, and RAG with LangChain.
+
+Seeking an AI Engineer internship to apply practical AI skills on real-world problems.
+
+EDUCATION
+
+PA College of Engineering and Technology, Pollachi
+2025 - 2029
+
+Class 12: 75%
+Class 10: 85%
+
+TECHNICAL SKILLS
+
+Programming:
+Python
+Object-Oriented Programming
+Data Structures and Algorithms
+
+Data and Databases:
+SQL
+Pandas
+Matplotlib
+
+Machine Learning:
+Scikit-learn
+Linear Regression
+Logistic Regression
+KNN
+Decision Trees
+Random Forest
+SVM
+Naive Bayes
+K-Means
+PCA
+Gradient Boosting
+XGBoost
+Feature Engineering
+Cross-Validation
+Model Evaluation
+Regularization
+
+Deep Learning:
+TensorFlow
+Keras
+Neural Networks
+CNN
+RNN
+LSTM
+Transfer Learning
+Transformers
+Attention Mechanism
+
+Generative AI / NLP:
+NLP
+LLM fundamentals
+Embeddings
+Vector Databases
+Semantic Search
+Retrieval-Augmented Generation (RAG)
+LangChain
+
+AI Application Development:
+Streamlit
+OpenCV
+YOLO
+FastAPI
+Flask
+
+Tools:
+Git
+GitHub
+Jupyter Notebook
+VS Code
+n8n
+
+PROJECTS
+
+MNIST Handwritten Digit Classification
+
+Built a CNN using Conv2D, MaxPooling, Flatten, and Dense layers on 60,000 training and 10,000 test images, achieving approximately 99.06% test accuracy.
+
+Normalized pixel values to the 0-1 range and ran predictions on a custom handwritten digit image.
+
+Cat vs Dog Image Classification
+
+Trained a CNN on the Microsoft Cats vs Dogs dataset from Hugging Face using 128x128 resized and normalized images, reaching approximately 79.1% test accuracy.
+
+Applied Dropout to improve generalization and evaluated the model with a confusion matrix and classification report.
+
+House Price Prediction
+
+Built a Linear Regression model using area, bedrooms, bathrooms, parking, age, and location with categorical encoding and train-test split.
+
+Achieved approximately 0.997 R² on the test set and evaluated the model using RMSE and R².
+
+Customer Churn Prediction
+
+Built a Logistic Regression classifier using age, tenure, monthly charges, support calls, contract, internet service, and payment method.
+
+Converted churn to binary labels and achieved approximately 65% test accuracy.
+
+HACKATHON / PROJECT EXPO
+
+Participated in the Quantexa Hackathon.
+
+Participated in a college Project Expo, presenting an n8n Email Automation project.
+
+LANGUAGES
+
+Tamil
+English

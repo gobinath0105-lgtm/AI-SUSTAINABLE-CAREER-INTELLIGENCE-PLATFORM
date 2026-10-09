@@ -1,0 +1,28 @@
+skill,ai_engineer,nlp_engineer,generative_ai_engineer,machine_learning_engineer,deep_learning_engineer,computer_vision_engineer,backend_ai_engineer,data_scientist,data_analyst,ai_ml_intern
+Python,10,10,10,10,10,10,10,10,8,10
+SQL,7,5,5,8,3,3,8,10,10,8
+Machine Learning,10,6,7,10,8,7,8,10,8,10
+Deep Learning,10,10,8,10,10,10,7,7,3,8
+NLP,8,10,9,5,5,3,4,5,2,5
+Transformers,9,10,10,5,7,3,3,5,1,4
+LLM,10,10,10,4,5,2,4,3,1,4
+Generative AI,10,9,10,3,4,2,4,3,1,4
+RAG,10,8,10,3,3,1,5,3,1,3
+Vector Database,9,7,10,2,2,1,6,2,1,2
+Embeddings,9,9,10,4,4,2,4,3,1,3
+LangChain,8,7,10,2,3,1,5,2,1,3
+FastAPI,9,5,8,4,3,2,10,3,1,4
+Docker,9,5,9,7,7,6,10,5,2,5
+Git,8,7,8,9,9,8,9,8,6,10
+GitHub,8,7,8,8,8,8,8,7,6,10
+TensorFlow,9,6,7,7,10,9,5,6,2,7
+PyTorch,9,10,8,7,10,9,5,6,2,7
+Scikit-learn,8,6,5,10,5,4,5,10,8,10
+Pandas,7,6,5,9,4,3,5,10,10,10
+NumPy,8,6,6,9,7,5,5,9,8,8
+Statistics,6,5,4,8,6,3,4,10,10,8
+OpenCV,6,3,3,3,5,10,3,3,2,4
+YOLO,7,2,3,2,5,10,2,2,1,3
+Computer Vision,8,3,3,3,8,10,3,3,1,4
+REST API,8,4,7,4,3,2,10,3,1,4
+Flask,7,4,6,4,3,2,9,3,1,4
